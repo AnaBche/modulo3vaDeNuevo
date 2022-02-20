@@ -1,0 +1,58 @@
+{
+    "name": "Ana",
+    "lastname": "Volpe",
+    "date_of_birth": "",
+    "nationality": "Argentina",
+    "mail": "",
+    "about_me": "",
+    "occupation": "docente de primaria",
+    "img_bg_header": "",
+    "img_profile": "",
+    "address": {
+      "street": "",
+      "city": "Bariloche",
+      "province": "Río Negro",
+      "country": ""
+    },
+    "education": [
+      {
+        "institution": "",
+        "title": "",
+        "img": "",
+        "career": "",
+        "score": "",
+        "start": "",
+        "end": ""
+      }
+    ],
+    "experience": [
+      {
+        "position": "",
+        "institution": "",
+        "img": "",
+        "mode": "",
+        "start": "",
+        "end": "",
+        "timeElapsed": "",
+        "place": ""
+      }
+    ],
+    "skill": [
+      {
+        "name": "",
+        "percentage": 0
+      }
+    ],
+    "project": [
+      {
+        "name": "",
+        "start_month": "",
+        "start_year": 0,
+        "end_month": "",
+        "end_year": 0,
+        "url": "",
+        "description": ""
+      }
+    ]
+  }
+  
